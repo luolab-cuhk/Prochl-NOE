@@ -1,0 +1,5 @@
+classification	clade	is_target	is_plotted	cmp_clade	HON3_avg	HON3_se	HON3_median	HON3_sign_test	HON3_ttest	HON2_avg	HON2_se	HON2_median	HON2_sign_test	HON2_ttest	HON0_avg	HON0_se	HON0_median	HON0_sign_test	HON0_ttest
+charge	Proch	1	0	Syne	0.901	0.012	0.89	NA	NA	0.972	0.014	0.96	NA	NA	1.059	0.011	1.055	NA	NA
+charge	Syne	0	1	Proch	0.851	0.014	0.876	0.005621	1.82E-06	0.884	0.015	0.893	5.01E-09	1.83E-12	0.955	0.013	0.984	2.20E-16	2.20E-16
+MY	Proch	1	0	Syne	0.618	0.006	0.625	NA	NA	0.554	0.006	0.554	NA	NA	0.666	0.006	0.668	NA	NA
+MY	Syne	0	1	Proch	0.543	0.007	0.548	2.20E-16	2.20E-16	0.49	0.006	0.498	2.20E-16	2.20E-16	0.558	0.006	0.572	2.20E-16	2.20E-16
